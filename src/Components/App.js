@@ -13,7 +13,9 @@ function App() {
           fermentum eget ante sed hendrerit. Mauris semper eget ante at
           lobortis.
         </p>
-        <a href="#">Read More</a>
+        <a href="#" className="btn-light">
+          Read More
+        </a>
       </section>
       <section className="section section-b">
         <h3>Section B</h3>
@@ -22,7 +24,9 @@ function App() {
           fermentum eget ante sed hendrerit. Mauris semper eget ante at
           lobortis.
         </p>
-        <a href="#">Read More</a>
+        <a href="#" className="btn-dark">
+          Read More
+        </a>
       </section>
     </div>
   );
